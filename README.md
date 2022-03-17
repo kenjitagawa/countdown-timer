@@ -1,4 +1,6 @@
-# Count down timer
+# Count down timer 
+
+Check it out [HERE!](https://kenjitagawa.github.io/countdown-timer/)
 
 This count down time is a simple implementation to demonstrate how to count down to a specific date. From here, the project can have a date picker directly from the browser, and a background image changer. 
 
