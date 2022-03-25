@@ -50,7 +50,7 @@ const countDown = () => {
 
 // Adding 0 to the time if it is less than 0. 
 const formatTime = (time) => {
-    return time < 10 ? (`0${time}`) : time;
+    return time < 10 ? (`0${time}`) : time; // TERNARY OPERATOR
 }
 
 // Calling function
